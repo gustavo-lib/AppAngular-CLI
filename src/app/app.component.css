@@ -1,0 +1,28 @@
+*/ header {
+  padding: 156px 0 100px;
+  
+}
+
+section {
+  padding: 100px 0;
+  
+}
+
+ /*.gustavo{
+ border-color: #e7e7e7;
+  color: #FF0000
+}*/
+.fuente{
+  font-family: 'Open Sans' ;/*,  sans-serif; /, sans-serif;*/
+
+}
+
+
+.navbar-default {
+  background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+}
+
+.navbar {
+  border: medium none;
+  margin-bottom: 0;
+}
